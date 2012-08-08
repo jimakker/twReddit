@@ -10,6 +10,14 @@ Includes [jQuery 1.7.2](http://jquery.com)
 ###Firefox
 * 1 - Install [GreaseMonkey](http://www.greasespot.net/).
 * 2 - Download the files or clone the repository. Alternatively, you can click [here](https://github.com/jimakker/twReddit/raw/master/twreddit.user.js).
-* 3 - Open twreddit.js file, or drag&drop twreddit.js file to the browser.
+* 3 - Open twreddit.js file, or drag-and-drop twreddit.js file to the browser.
 * 4 - Accept & Install.
 * 5 - Open [Reddit](http://www.reddit.com) & enjoy sharing!
+
+###Chrome / Chromium
+* 1 - Download the files or clone the repository.
+* 2 - Open [chrome://chrome/extensions/](chrome://chrome/extensions/)
+* 3 - Check "Developper mode" checkbox
+* 4 - Drag-and-drop twreddit.js file to the browsers tab.
+* 5 - Press OK and install.
+* 6 - Open [Reddit](http://www.reddit.com) & enjoy sharing!
