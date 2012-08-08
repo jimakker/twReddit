@@ -8,8 +8,8 @@ Includes [jQuery 1.7.2](http://jquery.com)
 ##Installation
 
 ###Firefox
-1 - Install [GreaseMonkey](http://www.greasespot.net/).
-2 - Download the files or clone the repository.
-3 - Open twreddit.js file, or drag&drop twreddit.js file to the browser.
-4 - Accept & Install.
-5 - Open [Reddit](http://www.reddit.com) & enjoy sharing!
+* 1 - Install [GreaseMonkey](http://www.greasespot.net/).
+* 2 - Download the files or clone the repository.
+* 3 - Open twreddit.js file, or drag&drop twreddit.js file to the browser.
+* 4 - Accept & Install.
+* 5 - Open [Reddit](http://www.reddit.com) & enjoy sharing!
