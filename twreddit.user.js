@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name          twReddit
-// @version       0.1.1.0
+// @version       0.1.1.1
 // @namespace     http://jsonsofanarchy.com
-// @description   Adds a Twitter share button for each reddit story
+// @description   Adds a Twitter share button for each Reddit story
 // @include       http://www.reddit.com*
 // @author        @jimakker
-// @downloadURL   https://github.com/jimakker/twReddit/raw/master/twreddit.user.js
+// @updateURL   https://github.com/jimakker/twReddit/raw/master/twreddit.user.js
 // @icon          http://jsonsofanarchy.com/JSONsOfAnarchy_icon.png
 // ==/UserScript==
  /*! jQuery v1.7.2 jquery.com | jquery.org/license */
