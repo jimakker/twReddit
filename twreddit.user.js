@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          TwReddit
+// @name          twReddit
 // @namespace     http://jsonsofanarchy.com
 // @description   Adds a Twitter share button for each reddit story
 // @include       http://www.reddit.com*
