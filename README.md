@@ -19,5 +19,5 @@ Includes [jQuery 1.7.2](http://jquery.com)
 * 2 - Open [chrome://chrome/extensions/](chrome://chrome/extensions/)
 * 3 - Check "Developer mode" checkbox
 * 4 - Drag-and-drop twreddit.js file to the browsers tab.
-* 5 - Press OK and install.
+* 5 - Accept & Install.
 * 6 - Open [Reddit](http://www.reddit.com) & enjoy sharing!
